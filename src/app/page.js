@@ -13,7 +13,7 @@ export default function HomePage() {
 
       <section className="mt-10 space-y-6">
         <p className="text-base">
-          Explore cosmic projects built with precision and heart, powered by Next.js, Tailwind, and emerging AI prompt engineering.
+          Explore cosmic projects built with precision and heart, powered by Python3, Next.js, Tailwind, and emerging AI prompt engineering.
         </p>
         <p className="text-base">
           Every link is an invitation to join a journey—crafted with intention, emotion, and modern technology.
